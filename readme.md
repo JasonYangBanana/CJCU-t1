@@ -12,7 +12,7 @@
 ## 回家作業(重要)
 吸收今天的建議，回去完善自己今天的切版
 
-##page 內文（歡迎複製）
+## page 內文（歡迎複製）
 IDEAS?
 This is just a place holder.
 You can remove any link to our website from this
