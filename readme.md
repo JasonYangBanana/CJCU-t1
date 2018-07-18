@@ -11,3 +11,31 @@
 
 ## 回家作業(重要)
 吸收今天的建議，回去完善自己今天的切版
+
+##page 內文（歡迎複製）
+IDEAS?
+This is just a place holder.
+You can remove any link to our website from this
+
+website template, you're free to use this website
+
+template without linking back to us.
+
+
+
+This is just a place holder.
+You can remove any link to our website from this website template, you're free to use this website template without linking back to us.
+
+This is just a place holder, so you can see what the site would look like.
+
+You can remove any link to our website from this website template, you're free to use this website template without linking back to us. This is just a place holder, so you can see what the site would look like.
+
+You can remove any link to our website from this website template, you're free to use this website template without linking back to us.
+
+This is just a place holder, so you can see what the site would look like.
+
+You can remove any link to our website from this website template, you're free to use this website template without linking back to us. This is just a place holder, so you can see what the site would look like.
+
+
+
+(c) 2023 Zerotype. All Rights Reserved.
